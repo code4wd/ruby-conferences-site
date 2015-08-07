@@ -2,7 +2,7 @@
 title: RailsIsrael 2015 Announced
 ---
 
-Dates have been announced for [Rails Israel 2015][s]: November 26th, 2015 in Tel
+Dates have been announced for [Rails Israel 2015][s]: November 24th, 2015 in Tel
 Aviv, Israel. Both [registration][reg] for the event and the [call for
 proprosals][cfp] are open.
 
